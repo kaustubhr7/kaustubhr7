@@ -44,6 +44,8 @@ I am also Pursuing my Bachelor in **Information Technology Engineering** and wil
 ### Certifications 📜
 - **AI For Everyone** <br>authorized by <i>deeplearning.ai</i> and offered through <i>Coursera</i>
 - **Crash Course on Python** <br>authorized by <i>Google</i> and offered through <i>Coursera</i>
+- **Programming for Everybody** <br>authorized by <i>University of Michigan</i> and offered through <i>Coursera</i>
+- **Python Data Structures** <br>authorized by <i>University of Michigan</i> and offered through <i>Coursera</i>
 <p>&nbsp;</p>I'm always open to interesting conversations and collaboration. Feel free to reach out, and let's create something amazing together!
 <br>
 Thanks for visiting my profile! 😊
