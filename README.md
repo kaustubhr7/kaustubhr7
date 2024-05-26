@@ -45,11 +45,11 @@ I am also Pursuing my Bachelor in **Information Technology Engineering** and wil
 - 💬 <strong>Other link:</strong> <!--[Portfolio]()--> [LinkedIn](https://www.linkedin.com/in/kaustubh-r-srivastav-5483ba2a2/) <!--Leetcode,HackerRank,CodeChef-->
 
 ### Certifications 📜
-- **AI For Everyone** <br>authorized by <i>deeplearning.ai</i> and offered through <i>Coursera</i>
-- **Crash Course on Python** <br>authorized by <i>Google</i> and offered through <i>Coursera</i>
-- **Programming for Everybody** <br>authorized by <i>University of Michigan</i> and offered through <i>Coursera</i>
-- **Python Data Structures** <br>authorized by <i>University of Michigan</i> and offered through <i>Coursera</i>
-- **Career Edge - Knockdown the Lockdown** <br>offered through <i>TCS iON</i>
+- **AI For Everyone** <br>authorized by <b><i>deeplearning.ai</i></b> and offered through <i>Coursera</i>
+- **Crash Course on Python** <br>authorized by <b><i>Google</i></b> and offered through <i>Coursera</i>
+- **Programming for Everybody** <br>authorized by <b><i>University of Michigan</i></b> and offered through <i>Coursera</i>
+- **Python Data Structures** <br>authorized by <b><i>University of Michigan</i></b> and offered through <i>Coursera</i>
+- **Career Edge - Knockdown the Lockdown** <br>offered through <b><i>TCS iON</i></b>
 <p>&nbsp;</p>I'm always open to interesting conversations and collaboration. Feel free to reach out, and let's create something amazing together!
 <br>
 Thanks for visiting my profile! 😊
